@@ -1,0 +1,74 @@
+body{ 
+    background-color: #f0e9e9;
+}
+h1 {
+    font-family: "Ubuntu";
+    margin-left: 28%;
+    
+
+}
+#box2 {
+    border: 5px;
+    border-style: solid;
+    border-color: #ffffff;
+    width: 465px;
+    height: 300px;
+    background-color: #ffffff;
+    background-attachment: fixed;
+    font-size: 17px;
+    padding: 30px;
+    padding-top: 0px;
+    margin-left: 120px;
+    float: left;
+    clear: left;
+    font-family: "Poppins";
+}
+#box1 {
+    border: 5px;
+    font-family: "DM Sans";
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    width: 500px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 120px;
+    float: left;
+    padding-left: 25px;
+
+}
+#img1 {
+     margin-left: 120px;
+     margin-bottom: 0%;
+}
+#img2 {
+    margin-right: 120px;
+    margin-bottom: 0%;
+    margin-left: 20px;
+}
+#p1 {
+    border: 5px;
+    border-style: solid;
+    border-color: #ffffff;
+    background-color: #ffffff;
+    margin-left: 678px;
+    width: 474px;
+    height: 300px;
+    padding: 25px;
+    padding-top: 0px;
+    font-family: "Poppins";
+    
+}
+#head {
+    border: 5px;
+    font-family: "DM Sans";
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    margin-left: 678px;
+    width: 500px;
+    height: 50px;
+    padding-left: 25px;
+    padding-bottom: 0px;
+    
+}
